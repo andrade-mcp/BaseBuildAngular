@@ -48,7 +48,7 @@
     "http-proxy": "~1.8.0",
     "jshint-stylish": "~1.0.0",
     "karma": "~0.12.31",
-    "lodash": "~3.10.0",
+    "lodash": "~4.17.19",
     "main-bower-files": "~2.5.0",
     "merge-stream": "~0.1.7",
     "protractor": "~1.7.0",
